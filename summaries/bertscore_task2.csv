@@ -1,0 +1,151 @@
+model,topic,article_dialect,target_dialect,precision,recall,f1
+gpt_oss,artificial intelligence,AUS,US,0.6953,0.4968,0.5795
+gpt_oss,artificial intelligence,AUS,UK,0.0,0.0,0.0
+gpt_oss,artificial intelligence,AUS,AUS,0.7045,0.4998,0.5847
+gpt_oss,artificial intelligence,AUS,US,0.6676,0.5146,0.5812
+gpt_oss,artificial intelligence,AUS,UK,0.0,0.0,0.0
+gpt_oss,artificial intelligence,AUS,AUS,0.6999,0.5237,0.5991
+gpt_oss,artificial intelligence,US,US,0.7131,0.5976,0.6503
+gpt_oss,artificial intelligence,US,UK,0.7532,0.5888,0.6609
+gpt_oss,artificial intelligence,US,AUS,0.7499,0.5897,0.6602
+gpt_oss,artificial intelligence,US,US,0.0,0.0,0.0
+gpt_oss,artificial intelligence,US,UK,0.0,0.0,0.0
+gpt_oss,artificial intelligence,US,AUS,0.6597,0.5188,0.5808
+gpt_oss,artificial intelligence,UK,US,0.7081,0.5525,0.6207
+gpt_oss,artificial intelligence,UK,UK,0.0,0.0,0.0
+gpt_oss,artificial intelligence,UK,AUS,0.7267,0.5641,0.6352
+gpt_oss,artificial intelligence,UK,US,0.6618,0.474,0.5523
+gpt_oss,artificial intelligence,UK,UK,0.6148,0.4725,0.5343
+gpt_oss,artificial intelligence,UK,AUS,0.0,0.0,0.0
+gpt_oss,elections,AUS,US,0.7306,0.5503,0.6277
+gpt_oss,elections,AUS,UK,0.6943,0.5097,0.5879
+gpt_oss,elections,AUS,AUS,0.7189,0.5298,0.61
+gpt_oss,elections,AUS,US,0.6615,0.485,0.5597
+gpt_oss,elections,AUS,UK,0.0,0.0,0.0
+gpt_oss,elections,AUS,AUS,0.6615,0.4798,0.5562
+gpt_oss,elections,US,US,0.6558,0.4407,0.5272
+gpt_oss,elections,US,UK,0.0,0.0,0.0
+gpt_oss,elections,US,AUS,0.6022,0.4342,0.5046
+gpt_oss,elections,US,US,0.6641,0.4787,0.5564
+gpt_oss,elections,US,UK,0.6305,0.4652,0.5354
+gpt_oss,elections,US,AUS,0.6139,0.4473,0.5175
+gpt_oss,elections,UK,US,0.7809,0.8419,0.8102
+gpt_oss,elections,UK,UK,0.7437,0.7688,0.756
+gpt_oss,elections,UK,AUS,0.7296,0.814,0.7695
+gpt_oss,elections,UK,US,0.7008,0.4915,0.5778
+gpt_oss,elections,UK,UK,0.7399,0.5094,0.6034
+gpt_oss,elections,UK,AUS,0.7081,0.49,0.5792
+gpt_oss,energy,AUS,US,0.764,0.5839,0.6619
+gpt_oss,energy,AUS,UK,0.7654,0.5642,0.6495
+gpt_oss,energy,AUS,AUS,0.0,0.0,0.0
+gpt_oss,energy,AUS,US,0.0,0.0,0.0
+gpt_oss,energy,AUS,UK,0.6216,0.4351,0.5119
+gpt_oss,energy,AUS,AUS,0.0,0.0,0.0
+gpt_oss,energy,US,US,0.6656,0.4708,0.5515
+gpt_oss,energy,US,UK,0.644,0.4698,0.5432
+gpt_oss,energy,US,AUS,0.6406,0.4714,0.5431
+gpt_oss,energy,US,US,0.627,0.4717,0.5384
+gpt_oss,energy,US,UK,0.0,0.0,0.0
+gpt_oss,energy,US,AUS,0.6352,0.4806,0.5472
+gpt_oss,energy,UK,US,0.6993,0.5144,0.5928
+gpt_oss,energy,UK,UK,0.6773,0.4928,0.5705
+gpt_oss,energy,UK,AUS,0.6493,0.4862,0.556
+gpt_oss,energy,UK,US,0.6551,0.4624,0.5421
+gpt_oss,energy,UK,UK,0.0,0.0,0.0
+gpt_oss,energy,UK,AUS,0.631,0.391,0.4828
+gpt_oss,global economy,AUS,US,0.6472,0.4618,0.539
+gpt_oss,global economy,AUS,UK,0.6128,0.4538,0.5215
+gpt_oss,global economy,AUS,AUS,0.6323,0.4794,0.5453
+gpt_oss,global economy,AUS,US,0.0,0.0,0.0
+gpt_oss,global economy,AUS,UK,0.0,0.0,0.0
+gpt_oss,global economy,AUS,AUS,0.6959,0.5272,0.5999
+gpt_oss,global economy,US,US,0.0,0.0,0.0
+gpt_oss,global economy,US,UK,0.0,0.0,0.0
+gpt_oss,global economy,US,AUS,0.0,0.0,0.0
+gpt_oss,global economy,US,US,0.0,0.0,0.0
+gpt_oss,global economy,US,UK,0.6667,0.497,0.5695
+gpt_oss,global economy,US,AUS,0.6878,0.5011,0.5798
+gpt_oss,global economy,UK,US,0.6626,0.4786,0.5557
+gpt_oss,global economy,UK,UK,0.6567,0.4753,0.5515
+gpt_oss,global economy,UK,AUS,0.6547,0.4771,0.552
+gpt_oss,global economy,UK,US,0.6566,0.4974,0.566
+gpt_oss,global economy,UK,UK,0.0,0.0,0.0
+gpt_oss,global economy,UK,AUS,0.6781,0.4955,0.5726
+gpt_oss,public health,AUS,US,0.6448,0.4966,0.5611
+gpt_oss,public health,AUS,UK,0.0,0.0,0.0
+gpt_oss,public health,AUS,AUS,0.0,0.0,0.0
+gpt_oss,public health,AUS,US,0.0,0.0,0.0
+gpt_oss,public health,AUS,UK,0.6502,0.465,0.5423
+gpt_oss,public health,AUS,AUS,0.0,0.0,0.0
+gpt_oss,public health,US,US,0.6553,0.4901,0.5608
+gpt_oss,public health,US,UK,0.6297,0.462,0.5329
+gpt_oss,public health,US,AUS,0.6263,0.3765,0.4703
+gpt_oss,public health,US,US,0.6254,0.4643,0.533
+gpt_oss,public health,US,UK,0.6183,0.4232,0.5025
+gpt_oss,public health,US,AUS,0.6365,0.4511,0.528
+gpt_oss,public health,UK,US,0.7574,0.6246,0.6847
+gpt_oss,public health,UK,UK,0.7325,0.614,0.668
+gpt_oss,public health,UK,AUS,0.7512,0.6218,0.6804
+gpt_oss,public health,UK,US,0.6808,0.473,0.5582
+gpt_oss,public health,UK,UK,0.6888,0.4756,0.5627
+gpt_oss,public health,UK,AUS,0.0,0.0,0.0
+gemini,artificial intelligence,AUS,US,0.7138,0.5244,0.6046
+gemini,artificial intelligence,AUS,UK,0.7088,0.5278,0.6051
+gemini,artificial intelligence,AUS,AUS,0.7238,0.5497,0.6248
+gemini,artificial intelligence,AUS,US,0.7039,0.5266,0.6025
+gemini,artificial intelligence,AUS,UK,0.703,0.5429,0.6127
+gemini,artificial intelligence,AUS,AUS,0.702,0.55,0.6168
+gemini,artificial intelligence,US,US,0.8066,0.657,0.7242
+gemini,artificial intelligence,US,UK,0.8054,0.6484,0.7185
+gemini,artificial intelligence,US,AUS,0.7919,0.6231,0.6975
+gemini,artificial intelligence,US,US,0.6578,0.5434,0.5952
+gemini,artificial intelligence,US,UK,0.6429,0.5242,0.5775
+gemini,artificial intelligence,US,AUS,0.6372,0.539,0.584
+gemini,artificial intelligence,UK,US,0.7999,0.6337,0.7072
+gemini,artificial intelligence,UK,UK,0.7859,0.6482,0.7105
+gemini,artificial intelligence,UK,AUS,0.7859,0.6386,0.7046
+gemini,artificial intelligence,UK,US,0.6213,0.4909,0.5485
+gemini,artificial intelligence,UK,UK,0.6396,0.4902,0.555
+gemini,artificial intelligence,UK,AUS,0.6457,0.5021,0.5649
+gemini,elections,AUS,US,0.7717,0.5816,0.6633
+gemini,elections,AUS,UK,0.7657,0.5796,0.6598
+gemini,elections,AUS,AUS,0.7895,0.5903,0.6755
+gemini,elections,AUS,US,0.6882,0.5247,0.5954
+gemini,elections,AUS,UK,0.6962,0.5273,0.6001
+gemini,elections,AUS,AUS,0.6957,0.5221,0.5965
+gemini,elections,US,US,0.6384,0.4668,0.5393
+gemini,elections,US,UK,0.6308,0.4589,0.5313
+gemini,elections,US,AUS,0.6326,0.4697,0.5391
+gemini,elections,US,US,0.6576,0.5128,0.5762
+gemini,elections,US,UK,0.7004,0.5288,0.6026
+gemini,elections,US,AUS,0.6969,0.5317,0.6032
+gemini,elections,UK,US,0.7332,0.8455,0.7854
+gemini,elections,UK,UK,0.7409,0.8612,0.7966
+gemini,elections,UK,AUS,0.7381,0.8685,0.798
+gemini,elections,UK,US,0.7867,0.555,0.6509
+gemini,elections,UK,UK,0.7985,0.5608,0.6588
+gemini,elections,UK,AUS,0.7873,0.5417,0.6418
+gemini,energy,AUS,US,0.7674,0.5926,0.6688
+gemini,energy,AUS,UK,0.7556,0.5964,0.6666
+gemini,energy,AUS,AUS,0.778,0.6097,0.6837
+gemini,energy,AUS,US,0.6317,0.4858,0.5492
+gemini,energy,AUS,UK,0.6149,0.4685,0.5318
+gemini,energy,AUS,AUS,0.5955,0.4742,0.528
+gemini,energy,US,US,0.6772,0.5077,0.5803
+gemini,energy,US,UK,0.6507,0.5054,0.5689
+gemini,energy,US,AUS,0.6599,0.4956,0.5661
+gemini,energy,US,US,0.6223,0.4821,0.5433
+gemini,energy,US,UK,0.6317,0.4896,0.5516
+gemini,energy,US,AUS,0.6301,0.4831,0.5469
+gemini,energy,UK,US,0.7106,0.527,0.6052
+gemini,energy,UK,UK,0.7109,0.5477,0.6187
+gemini,energy,UK,AUS,0.7126,0.5477,0.6194
+gemini,energy,UK,US,0.6447,0.4829,0.5522
+gemini,energy,UK,UK,0.6678,0.4827,0.5604
+gemini,energy,UK,AUS,0.6702,0.4932,0.5682
+gemini,global economy,AUS,US,0.662,0.4807,0.557
+gemini,global economy,AUS,UK,0.625,0.4687,0.5357
+gemini,global economy,AUS,AUS,0.6304,0.4616,0.533
+gemini,global economy,AUS,US,0.7235,0.5968,0.654
+gemini,global economy,AUS,UK,0.7044,0.5765,0.6341
+gemini,global economy,AUS,AUS,0.7137,0.581,0.6406

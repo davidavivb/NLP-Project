@@ -1,0 +1,18 @@
+{
+  "source": "bbc",
+  "source_label": "BBC News (UK)",
+  "country": "GB",
+  "topic": "artificial intelligence",
+  "topic_slug": "artificial_intelligence",
+  "title": "Meta halts worker tracking for AI training due to privacy fears",
+  "description": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
+  "content_snippet": "Meta has paused a new company-wide program of tracking its employees' computer usage which has been plagued by internal frustration. The program was started only two months ago as part of an effort …",
+  "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po",
+  "published_at": "2026-06-23T17:51:30Z",
+  "fetched_at": "2026-07-06T14:00:46.443917",
+  "author": "https://www.facebook.com/bbcnews",
+  "full_text": "Meta halts worker tracking for AI training due to privacy fears - Published Meta has paused a new company-wide program of tracking its employees' computer usage which has been plagued by internal frustration. The program was started only two months ago as part of an effort by Meta to gather data on how people used computers, including mouse clicks and keystrokes, that could be used to train artificial intelligence (AI) models. It was met immediately with upset from employees who were to have their every online action at work tracked and recorded, but also concerned about where the data was going and how it would be protected. Meta halted the program on Monday after realising some of the collected data had been left potentially accessible to anyone inside the company. A Meta spokesman confirmed to the BBC that the program, named internally the Model Capability Initiative (MCI), was \"on pause for now\" as the company investigates the issue. \"We have no indication at this time that any data was improperly accessed by Meta employees,\" the spokesman added. The pause follows weeks of blow-back from workers at the company, led by billionaire Mark Zuckerberg, to being tracked at work. In an initial response to worker frustration â which was displayed in part through a petition signed by nearly 2,000 Meta workers demanding that the MCI program be cancelled â Meta said it would allow workers to not be tracked for up to 30 minutes at a time. \"That was just an attempt at damage control,\" one current employee told the BBC. The person asked not to be identified. Another Meta employee, who also asked not to be identified, said that while a lot of technical workers inside the company are open to the idea of improving its AI models and being more competitive in a field dominated by Anthropic and OpenAI, the fact that tracking \"was forced on us, there was no consent\" left people angry. \"I've never seen morale here so bad,\" the employee said. In addition to the tracking program, frustration inside Meta has grown as it has done extensive layoffs, and reorganised many employees and their work around AI initiatives, on which the company is spending up to $145bn (Â£109bn) this year alone. Employees have even openly insulted management using explicit language, external in an internal meeting on the AI-driven changes, according to a report in Wired. While Meta has long had a reputation in the technology industry as a company that frequently reorganises internal teams around new projects, the changes and spending in an effort to catch up on AI feels like \"chasing your tail\", a person who recently left Meta after several years said. \"The direction this company is going in is depressing\", the former employee said. \"Exhausting and depressing.\" Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.",
+  "authors": [
+    "Kali Hays"
+  ]
+}

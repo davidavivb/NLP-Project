@@ -1,0 +1,135 @@
+{
+  "source": "bbc",
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Gerry Kelly: Former UTV and BBC presenter dies at age of 77",
+      "description": "The journalist and broadcaster, whose career spanned four decades, died at his home on Sunday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8jgw769zo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d18/live/2b44ab20-88fd-11f1-a44c-bfff55b50ffc.jpg",
+      "publishedAt": "2026-07-26T16:07:23.7442892Z",
+      "content": "Adrian Logan, who was a colleague of Gerry's at UTV, described Kelly as a \"larger-than-life character\".\r\n\"He was a colossus in UTV,\" Adrian said.\r\n\"Everybody in the place just loved him. He treated e… [+693 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Prince of Wales boat tragedy that killed 15 remembered 60 years on",
+      "description": "Peter Watts was just 14 when a pleasure boat disaster killed 15 people, including his entire family.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n99xe7pvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31e3/live/f5108520-8775-11f1-a7ab-8b30adf0800a.png",
+      "publishedAt": "2026-07-26T15:37:22.3047584Z",
+      "content": "\"This happened in the morning, at about 11 in the morning, and I was just waiting hours and hours for them to come back - and they didn't come back,\" said Peter.\r\n\"I went down to the harbour and I he… [+658 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Teenager charged over record Channel crossing on 'mega dinghy'",
+      "description": "Chan Mathok Atak, 19, is accused of endangering another during a journey by sea to the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/clyq5nqw13lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg",
+      "publishedAt": "2026-07-26T14:52:19.4924969Z",
+      "content": "A teenager charged over a small boat Channel crossing was allegedly piloting a \"mega dinghy\" carrying a record 165 migrants from France to England, the National Crime Agency has said.\r\nSudanese natio… [+1076 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider",
+      "description": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\".",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5v72jqglo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a569/live/1ea00c50-88f0-11f1-8824-a9ae603ecd1c.jpg",
+      "publishedAt": "2026-07-26T14:22:25.9294592Z",
+      "content": "Ryan Gosling will join the Marvel Cinematic Universe (MCU) as the titular character in a new Ghost Rider film, the company has announced.\r\nSpeaking during the surprise announcement at San Diego Comic… [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Meghan calls Prince Harry 'a charmer' during MasterChef Australia appearance",
+      "description": "The duke surprises his wife with a video call during her guest judge appearance  on MasterChef Australia.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg41vn8x7ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0927/live/a99592c0-884c-11f1-a6af-61be78d805a2.jpg",
+      "publishedAt": "2026-07-26T14:07:26.6238129Z",
+      "content": "Early on in the episode, Meghan was asked what her favourite dish is to make at home.\r\nShe said it was \"a tough one because I have a lot of palettes to appease\", with her British-born husband favouri… [+1408 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "description": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
+      "publishedAt": "2026-07-26T13:52:26.4484913Z",
+      "content": "The attack happened at about 22:00 local time (20:00 GMT). A report was made to police in Berlin that a white vehicle had been driven into crowds at a Pride event in the capital. \r\nHundreds of thousa… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Water supply problem affects both terminals at Gatwick Airport",
+      "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/970a/live/b77ebe10-88de-11f1-aeef-edf7e578a56d.jpg",
+      "publishedAt": "2026-07-26T12:22:19.8465929Z",
+      "content": "A passenger at the airport, Paul Lee, told the BBC he had not heard any announcements about the issue or seen bottled water being handed out.\r\nHe said: \"For people who need to go to the toilet, this … [+1284 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Man in critical condition after sea rescue near Clacton-on-Sea",
+      "description": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f2d/live/33c75480-88dc-11f1-aeef-edf7e578a56d.jpg",
+      "publishedAt": "2026-07-26T10:52:24.045218Z",
+      "content": "It follows a separate incident in West Mersea, near Colchester, on Wednesday in which a mother and her teenage daughter died. \r\nShally Rahman, 41, and Samiha Rahman, 15, tried to help a seven-year-ol… [+773 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png",
+      "publishedAt": "2026-07-26T07:52:23.7365067Z",
+      "content": "A further 55,000 people have been evacuated from six towns in France, as wildfires which have caused devastation across the country pick up pace. \r\nThe most recent evacuations took place in towns to … [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Primark cuts prices as it feels pressure from Shein and Temu",
+      "description": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a888/live/501dd8b0-86b2-11f1-8c61-e72dd81a46e3.jpg",
+      "publishedAt": "2026-07-26T00:52:22.6490575Z",
+      "content": "\"Primark isn't as cheap any more.\"\r\nIt is something I keep hearing shoppers say when I ask them whether they shop at the fast-fashion giant.\r\n\"It's definitely got more expensive,\" says 19-year-old st… [+1330 chars]"
+    }
+  ]
+}

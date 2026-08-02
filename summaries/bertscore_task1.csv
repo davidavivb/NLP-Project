@@ -1,0 +1,55 @@
+model,topic,article_dialect,target_dialect,precision,recall,f1
+gpt_oss,elections,UK,,0.7883,0.8115,0.7997
+gpt_oss,elections,UK,,0.7226,0.4968,0.5888
+gpt_oss,energy,AUS,,0.7277,0.5644,0.6357
+gpt_oss,energy,AUS,,0.616,0.4517,0.5213
+gpt_oss,energy,US,,0.6761,0.4807,0.5619
+gpt_oss,energy,US,,0.632,0.4841,0.5482
+gpt_oss,energy,UK,,0.6636,0.4892,0.5632
+gpt_oss,energy,UK,,0.6327,0.4699,0.5393
+gpt_oss,global economy,AUS,,0.6329,0.4744,0.5423
+gpt_oss,global economy,AUS,,0.0,0.0,0.0
+gpt_oss,global economy,US,,0.0,0.0,0.0
+gpt_oss,global economy,US,,0.6432,0.39,0.4855
+gpt_oss,global economy,UK,,0.6509,0.4919,0.5603
+gpt_oss,global economy,UK,,0.6613,0.5002,0.5696
+gpt_oss,public health,AUS,,0.0,0.0,0.0
+gpt_oss,public health,AUS,,0.6591,0.4831,0.5575
+gpt_oss,public health,US,,0.6635,0.5125,0.5783
+gpt_oss,public health,US,,0.6245,0.4089,0.4942
+gpt_oss,public health,UK,,0.7411,0.6464,0.6906
+gpt_oss,public health,UK,,0.0,0.0,0.0
+gemini,artificial intelligence,AUS,,0.6947,0.5138,0.5907
+gpt_oss,artificial intelligence,AUS,,0.7195,0.5161,0.6011
+gemini,artificial intelligence,AUS,,0.6573,0.4503,0.5344
+gpt_oss,artificial intelligence,AUS,,0.678,0.5389,0.6005
+gemini,artificial intelligence,US,,0.7909,0.5847,0.6723
+gpt_oss,artificial intelligence,US,,0.0,0.0,0.0
+gemini,artificial intelligence,US,,0.5945,0.4028,0.4803
+gpt_oss,artificial intelligence,US,,0.6978,0.5375,0.6072
+gemini,artificial intelligence,UK,,0.7524,0.5768,0.653
+gpt_oss,artificial intelligence,UK,,0.6875,0.4428,0.5386
+gemini,artificial intelligence,UK,,0.6419,0.3988,0.492
+gpt_oss,artificial intelligence,UK,,0.6599,0.4982,0.5677
+gpt_oss,elections,AUS,,0.7191,0.5374,0.6151
+gpt_oss,elections,AUS,,0.0,0.0,0.0
+gemini,elections,AUS,,0.7574,0.5397,0.6303
+gemini,elections,AUS,,0.6003,0.3517,0.4436
+gemini,elections,US,,0.6266,0.346,0.4458
+gpt_oss,elections,US,,0.0,0.0,0.0
+gemini,elections,US,,0.5811,0.3555,0.4412
+gpt_oss,elections,US,,0.6425,0.4824,0.551
+gemini,elections,UK,,0.8487,0.9108,0.8786
+gemini,elections,UK,,0.7324,0.4025,0.5195
+gemini,energy,AUS,,0.7479,0.5527,0.6357
+gemini,energy,AUS,,0.5972,0.3945,0.4751
+gemini,energy,US,,0.6606,0.3798,0.4823
+gemini,energy,US,,0.6024,0.3619,0.4522
+gemini,energy,UK,,0.6113,0.4003,0.4838
+gemini,energy,UK,,0.6398,0.3545,0.4562
+gemini,global economy,AUS,,0.6502,0.4973,0.5636
+gemini,global economy,AUS,,0.7508,0.5828,0.6562
+gemini,global economy,US,,0.7039,0.5428,0.613
+gemini,global economy,US,,0.6945,0.5137,0.5906
+gemini,global economy,UK,,0.6995,0.5549,0.6188
+gemini,global economy,UK,,0.6723,0.4866,0.5645

@@ -1,0 +1,91 @@
+model,topic,target_dialect,summac
+gpt_oss,artificial intelligence,US,0.2347
+gpt_oss,artificial intelligence,UK,0.2001
+gpt_oss,artificial intelligence,AUS,0.2284
+gpt_oss,artificial intelligence,US,0.2722
+gpt_oss,artificial intelligence,UK,0.2001
+gpt_oss,artificial intelligence,AUS,0.4095
+gpt_oss,artificial intelligence,US,0.2313
+gpt_oss,artificial intelligence,UK,0.3355
+gpt_oss,artificial intelligence,AUS,0.2202
+gpt_oss,artificial intelligence,US,0.2001
+gpt_oss,artificial intelligence,UK,0.2001
+gpt_oss,artificial intelligence,AUS,0.2549
+gpt_oss,artificial intelligence,US,0.2185
+gpt_oss,artificial intelligence,UK,0.2001
+gpt_oss,artificial intelligence,AUS,0.2194
+gpt_oss,artificial intelligence,US,0.3831
+gpt_oss,artificial intelligence,UK,0.2793
+gpt_oss,artificial intelligence,AUS,0.2001
+gpt_oss,elections,US,0.2382
+gpt_oss,elections,UK,0.3891
+gpt_oss,elections,AUS,0.2381
+gpt_oss,elections,US,0.2771
+gpt_oss,elections,UK,0.2001
+gpt_oss,elections,AUS,0.2639
+gpt_oss,elections,US,0.8888
+gpt_oss,elections,UK,0.2001
+gpt_oss,elections,AUS,0.529
+gpt_oss,elections,US,0.5161
+gpt_oss,elections,UK,0.2559
+gpt_oss,elections,AUS,0.287
+gpt_oss,elections,US,0.204
+gpt_oss,elections,UK,0.1947
+gpt_oss,elections,AUS,0.3192
+gpt_oss,elections,US,0.2328
+gpt_oss,elections,UK,0.2344
+gpt_oss,elections,AUS,0.2311
+gpt_oss,energy,US,0.2244
+gpt_oss,energy,UK,0.2361
+gpt_oss,energy,AUS,0.2001
+gpt_oss,energy,US,0.2001
+gpt_oss,energy,UK,0.2935
+gpt_oss,energy,AUS,0.2001
+gpt_oss,energy,US,0.2849
+gpt_oss,energy,UK,0.4303
+gpt_oss,energy,AUS,0.534
+gpt_oss,energy,US,0.2666
+gpt_oss,energy,UK,0.2001
+gpt_oss,energy,AUS,0.2735
+gpt_oss,energy,US,0.2584
+gpt_oss,energy,UK,0.2464
+gpt_oss,energy,AUS,0.2528
+gpt_oss,energy,US,0.2603
+gpt_oss,energy,UK,0.2001
+gpt_oss,energy,AUS,0.2674
+gpt_oss,global economy,US,0.2778
+gpt_oss,global economy,UK,0.2771
+gpt_oss,global economy,AUS,0.2928
+gpt_oss,global economy,US,0.2001
+gpt_oss,global economy,UK,0.2001
+gpt_oss,global economy,AUS,0.239
+gpt_oss,global economy,US,0.2001
+gpt_oss,global economy,UK,0.2001
+gpt_oss,global economy,AUS,0.2001
+gpt_oss,global economy,US,0.2001
+gpt_oss,global economy,UK,0.2664
+gpt_oss,global economy,AUS,0.2705
+gpt_oss,global economy,US,0.2417
+gpt_oss,global economy,UK,0.2552
+gpt_oss,global economy,AUS,0.2433
+gpt_oss,global economy,US,0.2747
+gpt_oss,global economy,UK,0.2001
+gpt_oss,global economy,AUS,0.2843
+gpt_oss,public health,US,0.2544
+gpt_oss,public health,UK,0.2001
+gpt_oss,public health,AUS,0.2001
+gpt_oss,public health,US,0.2001
+gpt_oss,public health,UK,0.2913
+gpt_oss,public health,AUS,0.2001
+gpt_oss,public health,US,0.2526
+gpt_oss,public health,UK,0.2622
+gpt_oss,public health,AUS,0.3099
+gpt_oss,public health,US,0.4577
+gpt_oss,public health,UK,0.8694
+gpt_oss,public health,AUS,0.3539
+gpt_oss,public health,US,0.2218
+gpt_oss,public health,UK,0.2183
+gpt_oss,public health,AUS,0.2108
+gpt_oss,public health,US,0.2396
+gpt_oss,public health,UK,0.2411
+gpt_oss,public health,AUS,0.2001

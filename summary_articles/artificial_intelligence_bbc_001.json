@@ -1,0 +1,18 @@
+{
+  "source": "bbc",
+  "source_label": "BBC News (UK)",
+  "country": "GB",
+  "topic": "artificial intelligence",
+  "topic_slug": "artificial_intelligence",
+  "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+  "description": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+  "content_snippet": "Chinese AI start-up Moonshot has unveiled a massive new artificial intelligence model it says can rival top American firms. The company launched Kimi K3, containing 2.8 trillion parameters, which se…",
+  "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
+  "published_at": "2026-07-17T16:53:04Z",
+  "fetched_at": "2026-07-27T16:11:38.218693",
+  "author": "https://www.facebook.com/bbcnews",
+  "full_text": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - Published Chinese AI start-up Moonshot has unveiled a massive new artificial intelligence model it says can rival top American firms. The company launched Kimi K3, containing 2.8 trillion parameters, which serves as a measure of an AI's scale and processing power. Kimi K3's full capabilities â coding, knowledge work, and reasoning â will be known when it is released as an open-source model on 27 July. The sudden breakthrough suggests that China's tech prowess is rapidly narrowing the capabilities gap, upending long-held assumptions in the West that Chinese developers trail their American peers. Its arrival later this month will make it the world's first open-source model in the three-trillion-parameter class that can be freely downloaded, run and customised by outside developers. The release comes at a highly sensitive moment for the global technology sector, just weeks after the US government abruptly forced American developer Anthropic to temporarily withdraw its flagship Fable and Mythos models due to severe cybersecurity concerns. While Washington has since lifted those restrictions, the initial move highlights how the US government now views advanced AI software as critical national infrastructure, labelling frontier models as vital national security assets subject to strict export controls. However, the rapid arrival of Kimi K3 suggests Chinese firms are successfully bypassing these regulatory barriers and advancing independently despite US restrictions on hardware sales. Heavily backed by domestic tech giants Alibaba and Tencent, Moonshot has quickly risen to the forefront of China's generative AI ecosystem. In a statement the company said that K3 stands as Moonshot AI's \"most capable flagship model to date\". Unlike closed, proprietary American systems from OpenAI or Anthropic, Kimi K3's open nature allows global users to modify the system for advanced reasoning and complex software development. Moonshot AI noted that the system is uniquely built to operate with \"minimal human supervision\" to sustain tasks such as engineering and coding. Third-party evaluations from Artificial Analysis and Arena.ai show the model performing on a par with leading models in the US, such as OpenAI's GPT and Anthropic's Claude. In these independent benchmarks, external, Kimi K3 ranked first in web interface engineering, outperforming Anthropic's Fable system, external in blind human-preference tests. While the system's massive size means running it locally requires significant computing equipment, making it open-source could heavily disrupt Silicon Valley's commercial models. The announcement had an immediate impact on shares in Moonshot's domestic competitors Zhipu and MiniMax, which tumbled sharply in Hong Kong by about 27% and 16% respectively.",
+  "authors": [
+    "Francisco Velasquez"
+  ]
+}

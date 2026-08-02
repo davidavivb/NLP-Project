@@ -1,0 +1,55 @@
+model,topic,article_dialect,target_dialect,bartscore
+gpt_oss,elections,UK,,-2.8766
+gpt_oss,elections,UK,,-3.0289
+gpt_oss,energy,AUS,,-2.1906
+gpt_oss,energy,AUS,,-2.6162
+gpt_oss,energy,US,,-2.7896
+gpt_oss,energy,US,,-3.1933
+gpt_oss,energy,UK,,-2.5591
+gpt_oss,energy,UK,,-2.3892
+gpt_oss,global economy,AUS,,-3.4119
+gpt_oss,global economy,AUS,,-6.3509
+gpt_oss,global economy,US,,-6.0546
+gpt_oss,global economy,US,,-1.9862
+gpt_oss,global economy,UK,,-2.5141
+gpt_oss,global economy,UK,,-2.9574
+gpt_oss,public health,AUS,,-7.036
+gpt_oss,public health,AUS,,-1.7523
+gpt_oss,public health,US,,-2.1065
+gpt_oss,public health,US,,-2.6649
+gpt_oss,public health,UK,,-2.9027
+gpt_oss,public health,UK,,-6.5572
+gemini,artificial intelligence,AUS,,-1.5393
+gpt_oss,artificial intelligence,AUS,,-1.9855
+gemini,artificial intelligence,AUS,,-2.0205
+gpt_oss,artificial intelligence,AUS,,-2.713
+gemini,artificial intelligence,US,,-1.2132
+gpt_oss,artificial intelligence,US,,-5.9263
+gemini,artificial intelligence,US,,-2.3019
+gpt_oss,artificial intelligence,US,,-2.7861
+gemini,artificial intelligence,UK,,-1.3175
+gpt_oss,artificial intelligence,UK,,-2.9866
+gemini,artificial intelligence,UK,,-3.4647
+gpt_oss,artificial intelligence,UK,,-2.9056
+gpt_oss,elections,AUS,,-2.0201
+gpt_oss,elections,AUS,,-5.4542
+gemini,elections,AUS,,-1.2576
+gemini,elections,AUS,,-2.6456
+gemini,elections,US,,-2.2419
+gpt_oss,elections,US,,-6.4895
+gemini,elections,US,,-1.743
+gpt_oss,elections,US,,-2.9554
+gemini,elections,UK,,-1.8245
+gemini,elections,UK,,-2.3348
+gemini,energy,AUS,,-1.5478
+gemini,energy,AUS,,-1.8662
+gemini,energy,US,,-1.6819
+gemini,energy,US,,-2.6566
+gemini,energy,UK,,-2.6723
+gemini,energy,UK,,-1.7977
+gemini,global economy,AUS,,-2.4477
+gemini,global economy,AUS,,-1.8023
+gemini,global economy,US,,-1.4029
+gemini,global economy,US,,-1.6914
+gemini,global economy,UK,,-1.8765
+gemini,global economy,UK,,-1.99

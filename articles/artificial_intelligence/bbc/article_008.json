@@ -1,0 +1,18 @@
+{
+  "source": "bbc",
+  "source_label": "BBC News (UK)",
+  "country": "GB",
+  "topic": "artificial intelligence",
+  "topic_slug": "artificial_intelligence",
+  "title": "Meta pulls new AI image feature after days of backlash",
+  "description": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+  "content_snippet": "Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram. The feature was part of a broad rollo…",
+  "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
+  "published_at": "2026-07-11T00:17:54Z",
+  "fetched_at": "2026-07-27T16:11:41.681044",
+  "author": "https://www.facebook.com/bbcnews",
+  "full_text": "Meta pulls new AI image feature after days of backlash - Published Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram. The feature was part of a broad rollout of Muse Image, a new AI image generation tool Instagram's parent company released on Tuesday. It allowed users of the Meta AI chatbot to tag public-facing accounts on Instagram and quickly use content on those accounts to create AI-generated or altered content and images. The feature quickly sparked blowback due to privacy concerns, leading Meta to admit it had âmissed the mark\" so it was \"no longer availableâ. Muse Image was the tech firm's first foray into AI image generation but faced backlash as Instagram users were opted in by default. It meant that anyone with a public account could have their likeness used without their knowledge or permission. Hollywood union Sag-Aftra described the U-turn as a \"win\". It had previously urged its members and \"all Instagram users\" to take action to protect their likeness stating that there had been an \"utter miscalculation of public sentiment regarding the obvious dangers and harms inherent in such use\". The London-based human rights charity Privacy International had also criticised the feature, telling the BBC it was \"the latest sign AI companies see people's images and data as raw material to be exploited\". âOur intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,â Meta added in its decision to pull the feature. âWe've heard the feedback.â When Meta announced Muse Image, external, the firm said it was limited to Instagram, but more AI features and integrations were planned for WhatsApp, Facebook and Messenger. It also has an AI video tool in development. Meta declined to make any further comment.",
+  "authors": [
+    "Kali Hays"
+  ]
+}

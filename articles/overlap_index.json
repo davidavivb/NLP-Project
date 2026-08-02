@@ -1,0 +1,162 @@
+{
+  "artificial_intelligence": {
+    "bbc": [
+      "https://www.bbc.co.uk/sounds/play/w3ct977t?at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
+      "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o",
+      "https://www.bbc.co.uk/news/articles/c4gym70r0y4o",
+      "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
+      "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
+      "https://www.bbc.co.uk/news/articles/c20yz9v1llro",
+      "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo"
+    ],
+    "abc_au": [
+      "https://www.abc.net.au/news/2026-07-20/ai-assisted-cameras-smart-signs-trial-reduce-wildlife-strikes/106933218",
+      "https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000",
+      "https://www.abc.net.au/news/2026-07-16/federal-politics-live-blog-ai-office-criticism/106920750",
+      "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
+      "https://www.abc.net.au/news/2026-07-06/abc-new-ai-policies/106844364",
+      "https://www.abc.net.au/news/2026-07-15/federal-politics-live-blog-tobacco-july-5/106916356",
+      "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212",
+      "https://www.abc.net.au/news/2026-07-22/labor-to-launch-fair-ai-taskforce-to-give-workers-a-say/106946558"
+    ],
+    "ap_us": [
+      "https://apnews.com/press-release/newmediawire/press-release-5e7f51adb3538c6a7770f23814b981b4",
+      "https://apnews.com/press-release/globenewswire-mobile/press-release-1f4dc17f9282caaf423506bd73fa5927",
+      "https://apnews.com/press-release/pr-newswire/press-release-1ba7df99a34226e1bc4b3dcf5d729396",
+      "https://apnews.com/press-release/business-wire/press-release-17976799f0fe4f2c99c39baa7f9eb923",
+      "https://apnews.com/press-release/business-wire/press-release-853faa8611c84cb0aaa46a2a517781f1",
+      "https://apnews.com/press-release/business-wire/press-release-4a6b2b3182eb437d9d15e957e72c90de",
+      "https://apnews.com/press-release/business-wire/press-release-4ce529a17f4e44a4829ce20998eadec5",
+      "https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48"
+    ]
+  },
+  "public_health": {
+    "bbc": [
+      "https://www.bbc.co.uk/news/articles/cjrvy450jv5o",
+      "https://www.bbc.co.uk/news/articles/cx27md9e09po",
+      "https://www.bbc.co.uk/news/articles/cpwep8xnkrqo",
+      "https://www.bbc.co.uk/news/articles/cvgvxm1n3keo",
+      "https://www.bbc.co.uk/news/articles/cp8engx2xyeo",
+      "https://www.bbc.co.uk/news/articles/cx2rv14em3jo",
+      "https://www.bbc.co.uk/news/articles/c62122pgjqdo",
+      "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo"
+    ],
+    "abc_au": [
+      "https://www.abc.net.au/news/2026-06-30/emily-lal-birth-keeper-stacey-warnecke-freebirth-death/106859854",
+      "https://www.abc.net.au/news/2026-07-01/calls-for-legal-system-to-change-approach-to-emdr-and-witnesses/106856868",
+      "https://www.abc.net.au/news/2026-07-16/casuarina-plaza-mould-infestation-nt/106919392",
+      "https://www.abc.net.au/news/2026-07-08/oral-care-brand-hismile-advertisments-videos-misleading/106887810",
+      "https://www.abc.net.au/news/2026-07-16/former-nsw-minister-john-sidoti-speaks-out-on-misconduct-claims/106922068",
+      "https://www.abc.net.au/news/2026-07-22/katherine-woolworths-forklift-motorcycle-crash-worksafe-charges/106944800",
+      "https://www.abc.net.au/news/2026-07-01/widow-raises-awareness-of-rural-mental-health-farmer-suicide/106857008",
+      "https://www.abc.net.au/news/2026-07-15/newcastle-arts-in-recovery-therapy-workshop-mental-health/106893298"
+    ],
+    "ap_us": [
+      "https://apnews.com/article/canada-wildfires-smoke-us-ae4b2bd09a97919a081e26ede6a6d355",
+      "https://apnews.com/article/usaid-nepal-sex-workers-trump-budget-cuts-d8ea21ca4d43f1598ea54499123d46e0",
+      "https://apnews.com/article/haiti-medical-students-doctors-protest-hospital-3d4ffba8708026809aa40ce89785b03c",
+      "https://apnews.com/article/france-heatwave-extra-deaths-health-agency-dff2ed624e0cdad02f836d30ae3e878f",
+      "https://apnews.com/press-release/business-wire/press-release-8ae394a3e274485db1a936790633c5c9",
+      "https://apnews.com/press-release/pr-newswire/press-release-64924d74525a48257b2e4b48e7aebeea",
+      "https://apnews.com/press-release/pr-newswire/press-release-c6aae7d647eccc2f0063a793303f3703",
+      "https://apnews.com/article/bill-gates-foundation-jeffrey-epstein-files-798b07999092aae601eae11a8ea14ce5"
+    ]
+  },
+  "elections": {
+    "bbc": [
+      "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo",
+      "https://www.bbc.co.uk/news/articles/cd694w0l30do",
+      "https://www.bbc.co.uk/news/articles/c7vygl3zymjo",
+      "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o",
+      "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o",
+      "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo",
+      "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
+      "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo"
+    ],
+    "abc_au": [
+      "https://www.abc.net.au/news/2026-07-17/trump-primetime-address-election-integrity-voting-machines/106923066",
+      "https://www.abc.net.au/news/2026-07-17/donald-trump-national-address-ominous-sign-for-midterm-elections/106928662",
+      "https://www.abc.net.au/news/2026-06-29/trump-allies-in-the-south-are-wiping-out-black-votes/106818800",
+      "https://www.abc.net.au/news/2026-07-17/trump-teleprompter-operator-suspended/106925842",
+      "https://www.abc.net.au/news/2026-07-06/nigel-farage-reform-uk-failed-declare-george-cottrell-donation/106883524",
+      "https://www.abc.net.au/news/2026-07-10/australian-charged-with-illegal-us-voting-faces-jury-trial/106901330",
+      "https://www.abc.net.au/news/2026-07-09/democrats-graham-platner-suspends-senate-midterm-campaign/106896142",
+      "https://www.abc.net.au/news/2026-07-01/federal-election-review-partisan-witch-hunt-coalition-says/106864668"
+    ],
+    "ap_us": [
+      "https://apnews.com/article/mitch-mcconnell-senate-illness-hospital-566a584e28137458111cd28ecfceaf8e",
+      "https://apnews.com/article/israel-poll-democrats-republicans-b91cdc0aaf31f6bc226a0584115b886f",
+      "https://apnews.com/article/trump-carter-iran-inflation-71fab887b88febc073c89a8c8db595f3",
+      "https://apnews.com/article/america-250-trump-king-imperial-presidency-13c1b8f5ad2cb4c94d879d5738000e53",
+      "https://apnews.com/article/trump-fires-election-commission-members-0dc1f37c3990398b3085f22a14ea239a",
+      "https://apnews.com/article/supreme-court-campaign-finance-party-spending-ohio-91e49ee112197ae1210a9abfa46986ed",
+      "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
+      "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297"
+    ]
+  },
+  "global_economy": {
+    "bbc": [
+      "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
+      "https://www.bbc.co.uk/sounds/play/w3ct8g9j?at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd959x4edy8o",
+      "https://www.bbc.co.uk/news/articles/cn93e12rypgo",
+      "https://www.bbc.co.uk/news/articles/c5y66y40kgpo",
+      "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o",
+      "https://www.bbc.co.uk/news/articles/cwymx3eevpjo",
+      "https://www.bbc.co.uk/news/articles/cdej6ej7w4go"
+    ],
+    "abc_au": [
+      "https://www.abc.net.au/news/2026-06-30/ai-boom-big-tech-investment-drain-market-volatility/106857426",
+      "https://www.abc.net.au/news/2026-07-06/house-prices-household-debt-voter-sentiment/106881978",
+      "https://www.abc.net.au/news/2026-07-01/households-facing-heavy-home-loan-interest-burden-kpmg-rba/106864920",
+      "https://www.abc.net.au/news/2026-07-26/superannuation-renewable-energy-investment-funding-gap/106842116",
+      "https://www.abc.net.au/news/2026-07-08/reserve-bank-chief-economist-sarah-hunter-warns-supply-shocks/106889308",
+      "https://www.abc.net.au/news/2026-07-20/houthis-declare-maritime-blockade-on-saudi-arabia/106938064",
+      "https://www.abc.net.au/news/2026-07-13/ai-china-america-duelling-superpowers/106907068",
+      "https://www.abc.net.au/news/2026-07-21/us-imposes-50pc-tariffs-on-canada/106938910"
+    ],
+    "ap_us": [
+      "https://apnews.com/article/china-economy-trade-exports-ai-95136222f87d5a1e62918f41efab00be",
+      "https://apnews.com/press-release/globenewswire-mobile/press-release-51b8a012f372d3bec77452c6ae3fa909",
+      "https://apnews.com/press-release/business-wire/press-release-c379e6c364ab4fa6a2560408d1d654f1",
+      "https://apnews.com/press-release/business-wire/press-release-8b422357668c4c7fbd834223f6308757",
+      "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
+      "https://apnews.com/article/china-trade-ai-tech-economy-29da1a43eba2961b57f6cfbe6f936e42",
+      "https://apnews.com/press-release/globenewswire-mobile/press-release-82a4f059a5a51365eca2b1d786989c35",
+      "https://apnews.com/press-release/globenewswire-mobile/press-release-09c0fcf800a47a7c087d3464b87f4ea3"
+    ]
+  },
+  "energy": {
+    "bbc": [
+      "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko",
+      "https://www.bbc.co.uk/news/articles/c75gzgewv0vo",
+      "https://www.bbc.co.uk/news/articles/cy8m7k98p3no",
+      "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo",
+      "https://www.bbc.co.uk/news/articles/cglj9685nj0o",
+      "https://www.bbc.co.uk/news/articles/ceqe55d0q9po",
+      "https://www.bbc.co.uk/news/articles/cn8n9lzj136o",
+      "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o"
+    ],
+    "abc_au": [
+      "https://www.abc.net.au/news/2026-07-22/origin-energy-investigating-potential-data-breach/106944660",
+      "https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374",
+      "https://www.abc.net.au/news/2026-07-15/molly-ticehurst-father-compensation-workplace-injury/106916762",
+      "https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908",
+      "https://www.abc.net.au/news/2026-07-05/liberal-frontbencher-tehan-pushes-back-on-one-nation-coalition/106881492",
+      "https://www.abc.net.au/news/2026-07-01/data-centre-planned-outback-nt/106862398",
+      "https://www.abc.net.au/news/science/2026-06-28/how-much-of-our-lives-rely-on-by-products-from-fossil-fuels/106789690",
+      "https://www.abc.net.au/news/2026-07-24/newly-announced-nuclear-deal-hinges-on-recognition-of-israel/106952128"
+    ],
+    "ap_us": [
+      "https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd",
+      "https://apnews.com/article/iran-united-states-trump-khamenei-funeral-533b52cf249314ba1d9b5f9a30b1ca43",
+      "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-15fdb262bb9c83d0d959ca96b7561c12",
+      "https://apnews.com/article/iran-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25",
+      "https://apnews.com/press-release/newsfile/press-release-933a64f0f238702d5477545e1af68c2e",
+      "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-83b723965bc6b7a02f5bb48d9b4ee32e",
+      "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
+      "https://apnews.com/article/trump-clean-energy-grants-chris-wright-09d26d615869ce06dd6bb2c047f636cb"
+    ]
+  }
+}
